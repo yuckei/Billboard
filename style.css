@@ -1,0 +1,203 @@
+.header {
+    height: 50px;
+    background-color: #d4d7d9
+    
+}
+
+.charts-container {
+    width: 700px; 
+    height: 700px; 
+    background-color: none;
+    margin: auto;
+}
+.header-center{
+	background: none
+	height: 50px;
+	width:700px;
+	margin-left: 602px;
+
+}
+.dp{
+	display: flex;
+}
+.box-logo{
+	background
+	height: 50px;
+	width: 150px;
+	
+}
+
+
+.box-links{
+	background
+	height: 50px;
+	width: 500px;
+	
+}
+.box-button{
+	background
+	height: 50px;
+	width: 200px;
+	
+}
+.charts-sort{
+	height: 70px;
+	width: 700px;
+	background: none
+}
+.charts-up{
+	height: 90px;
+	width: 700px;
+	 background: linear-gradient(90deg, #1f9c40, #207796);
+	margin-top: 10px;
+}
+.charts-new{
+	height: 90px;
+	width: 700px;
+	background: linear-gradient(90deg, #c427a5,#c42756);
+	margin-top: 10px;
+}
+	
+.charts-down{
+	height:90px;
+	width: 700px;
+	background: linear-gradient(90deg, #2a2a5c,#c78adb);
+	margin-top: 10px;
+}
+.charts-rank{
+	background-color: none
+	height: 90px;
+	width: 100px;
+	
+}
+.charts-info{
+	background
+	height: 90px;
+	width: 400px;
+	
+}
+.charts-button{
+	height: 90px;
+	width: 150px;
+	background: none
+	
+}
+.charts-img{
+	background-color: none
+	height: 90px;
+	width: 100px;
+	
+}
+.song-name{
+	color: #2a2d70;
+	font-family: Verdana;
+	font-size: 20px;
+	text-transform: uppercase;
+}
+.song-author{
+	color: white;
+	font-size: 15px;
+	font-family: Verdana;
+}
+img{
+	width: 100px;
+    height: 90px;
+    border-radius: 4px;
+    object-fit: cover;
+}
+.rank{
+	font-size: 24px;
+    font-family: verdana;
+    text-align: center;
+    font-weight: bold;
+    margin: 10px;
+}
+.filter-1{
+    margin: 10px;
+    padding: 5px 20px;
+    background-color: #f7c602;
+    font-weight: bold;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+.filter-2{
+    margin: 0 10px;
+    padding: 5px 20px;
+    background-color: red;
+    font-weight: bold;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+.filter-3{
+    margin: 0 10px;
+    padding: 7px 20px;
+    background-color: green;
+    font-weight: bold;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+.filter-4{
+    margin: 0 10px;
+    padding: 5px 20px;
+    background-color: purple;
+    font-weight: bold;
+    color: white;	
+    border: none;
+    border-radius: 5px;
+}
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    font-family: arial black;
+}
+.menu a {
+    margin: 0 10px;
+    font-size: 16px;
+    color: #333;
+    
+}
+.subscribe {
+    background-color: #800080;
+    color: #fff;
+    padding: 8px 15px;
+    border: none;
+    border-radius: 4px;
+  }
+  button.play {
+    background-color: #0057e7;
+    color: #fff;
+    padding: 8px 15px;
+    border: none;
+    border-radius: 4px;
+}
+.up{
+	font-family: verdana;
+	color: darkgreen; 
+	font-size: 20px;
+	text-align: center;
+}
+button.buy {
+    background-color: darkgreen;
+    color: #fff;
+    padding: 8px 15px;
+    border: none;
+    border-radius: 4px;
+    width: 120px;}
+
+
+    .new{
+	font-family: verdana;
+	color: sandybrown; 
+	font-size: 20px;
+	text-align: center;
+	}
+	.down{
+	font-family: verdana;
+	color: red; 
+	font-size: 20px;
+	text-align: center;
+}
